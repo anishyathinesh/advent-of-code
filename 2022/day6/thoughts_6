@@ -1,0 +1,11 @@
+
+I actually opted to use recursion on this problem, like, voluntarily!! It is super out of my comfort zone because whenever I do recursion I get
+flashbacks to the first practical exam of the year which ummm did not go too well. But I think it's safe to say that I've conquered that beast. 
+
+I liked using recursion on this one because it just made so much sense in my brain and the tail recursion especially looked elegant. 
+
+Another thing. I kept getting the "recursion depth exceeded" error for part 2 which was making no sense but then I realized I'm really asking
+poor old python to do a lot--running a super long string over and over through a function with the only change being one measly character spliced off. 
+So what I did was manually make the recursion limit larger!! It felt soooooooo illegal but hey it worked!
+
+Here's to more recursion in the future :) So handy!
